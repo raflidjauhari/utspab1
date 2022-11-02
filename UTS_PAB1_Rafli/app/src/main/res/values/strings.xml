@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_PAB1_Rafli</string>
+    <string-array name="Jalurpendaftaran">
+        <item>Tes Tertulis</item>
+    <item>Jalur Tanpa Tes</item>
+        <item>Ujian Saringan Masuk</item>
+    </string-array>
+</resources>
